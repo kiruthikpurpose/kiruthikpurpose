@@ -31,9 +31,11 @@ I am a passionate developer with a strong interest in **Artificial Intelligence*
 
 ### 📚 Knowledge Areas
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=fff)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=fff)
-![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=fff)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=embedded-systems&logoColor=fff)
-![FinTech](https://img.shields.io/badge/FinTech-000000?style=for-the-badge&logo=fintech&logoColor=fff)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=uiux&logoColor=fff)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=for-the-badge&logo=artificial-intelligence&logoColor=fff)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=fff)
+![Blockchain](https://img.shields.io/badge/Blockchain-1F3A93?style=for-the-badge&logo=blockchain&logoColor=fff)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=embedded-systems&logoColor=fff)
+![FinTech](https://img.shields.io/badge/FinTech-28A745?style=for-the-badge&logo=fintech&logoColor=fff)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF5722?style=for-the-badge&logo=uiux&logoColor=fff)
+![Web Development](https://img.shields.io/badge/Web%20Development-007ACC?style=for-the-badge&logo=html5&logoColor=fff)
+
