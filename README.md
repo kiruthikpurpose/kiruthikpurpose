@@ -4,35 +4,21 @@ I am a passionate developer with a strong interest in **Artificial Intelligence*
 
 ### 🛠️ Technologies & Tools
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)
-![R](https://img.shields.io/badge/-R-000?style=for-the-badge&logo=r)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite)
-![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-000?style=for-the-badge&logo=c)
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
-
-#### Frameworks, Libraries & Tools
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?style=for-the-badge&logo=jupyter)
-
-### 💡 Interests
-- **Artificial Intelligence**
-- **Machine Learning Models**
-- **Blockchain**
-- **Embedded Systems**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-00979D?style=for-the-badge&logo=c&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
 
 ### 📈 GitHub Stats
 
