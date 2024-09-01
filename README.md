@@ -1,5 +1,3 @@
-# Welcome to Kiruthik's GitHub Profile! 👋
-
 I am a passionate developer with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Blockchain**. I enjoy working with a variety of programming languages and technologies, and I'm always eager to learn more and take on new challenges.
 
 ### 🛠️ Technologies & Tools
@@ -19,23 +17,14 @@ I am a passionate developer with a strong interest in **Artificial Intelligence*
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-00979D?style=for-the-badge&logo=c&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
-
-### 📈 GitHub Stats
-
-![Kiruthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiruthikpurpose&show_icons=true&theme=radical)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiruthikpurpose&theme=radical)
-
-### 🚀 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthikpurpose&layout=compact&theme=radical)
-
-### 📫 How to reach me
-- LinkedIn: [Kiruthik's LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: [kiruthikpurpose@gmail.com](mailto:kiruthikpurpose@gmail.com)
-
----
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting.
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff)
+![NLTK](https://img.shields.io/badge/-NLTK-009639?style=for-the-badge&logo=python&logoColor=fff)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
+![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=fff)
+![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-AE4347?style=for-the-badge&logo=mitappinventor&logoColor=fff)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
