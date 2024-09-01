@@ -28,3 +28,12 @@ I am a passionate developer with a strong interest in **Artificial Intelligence*
 ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=fff)
 ![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-AE4347?style=for-the-badge&logo=mitappinventor&logoColor=fff)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
+
+### 📚 Knowledge Areas
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=fff)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=fff)
+![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=fff)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=embedded-systems&logoColor=fff)
+![FinTech](https://img.shields.io/badge/FinTech-000000?style=for-the-badge&logo=fintech&logoColor=fff)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=uiux&logoColor=fff)
