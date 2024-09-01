@@ -1,5 +1,3 @@
-I am a passionate developer with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Blockchain**. I enjoy working with a variety of programming languages and technologies, and I'm always eager to learn more and take on new challenges.
-
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
