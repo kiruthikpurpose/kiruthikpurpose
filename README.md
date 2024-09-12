@@ -26,7 +26,6 @@
 ![NLTK](https://img.shields.io/badge/-NLTK-009639?style=for-the-badge&logo=python&logoColor=fff)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
 ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=fff)
-![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-AE4347?style=for-the-badge&logo=mitappinventor&logoColor=fff)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
