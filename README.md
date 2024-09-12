@@ -28,6 +28,10 @@
 ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=fff)
 ![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-AE4347?style=for-the-badge&logo=mitappinventor&logoColor=fff)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 
 ### 📚 Knowledge Areas
 
