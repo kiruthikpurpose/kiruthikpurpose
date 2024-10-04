@@ -14,6 +14,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
+![Qiskit](https://img.shields.io/badge/-Qiskit-8A3FFC?style=for-the-badge&logo=qiskit&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-00979D?style=for-the-badge&logo=c&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
